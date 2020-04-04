@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c5cc79f-7ae0-4c1a-aa88-b52a65d516c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtZ8oeAo1CPrUdxS36jFelStxi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Balu\IdeaProjects\PiCollisions\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Pi">
+    <configuration name="CollisionMaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hunor.pi.CollisionMaker" />
+      <module name="PiCollisions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hunor.pi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hunor.pi.Lotto" />
+      <module name="PiCollisions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hunor.pi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pi" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.hunor.pi.Main" />
+      <module name="PiCollisions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CollisionMaker" />
+        <item itemvalue="Application.Lotto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c5cc79f-7ae0-4c1a-aa88-b52a65d516c4" name="Default Changelist" comment="" />
+      <created>1583763693958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583763693958</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="222" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583765186548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="222" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583765186548" />
+    <state x="573" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1584203215547">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="573" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583763873739" />
+    <state x="573" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584203215547" />
+    <state x="498" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583763750167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583763750167" />
+    <state width="1495" height="194" key="GridCell.Tab.0.bottom" timestamp="1585997272770">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1535" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583944338091" />
+    <state width="1495" height="194" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585997272770" />
+    <state width="1535" height="230" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584274215319" />
+    <state width="1495" height="194" key="GridCell.Tab.0.center" timestamp="1585997272770">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1535" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583944338091" />
+    <state width="1495" height="194" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1585997272770" />
+    <state width="1535" height="230" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584274215319" />
+    <state width="1495" height="194" key="GridCell.Tab.0.left" timestamp="1585997272770">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1535" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583944338091" />
+    <state width="1495" height="194" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1585997272770" />
+    <state width="1535" height="230" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584274215319" />
+    <state width="1495" height="194" key="GridCell.Tab.0.right" timestamp="1585997272770">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1535" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583944338091" />
+    <state width="1495" height="194" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1585997272770" />
+    <state width="1535" height="230" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584274215319" />
+    <state width="1535" height="269" key="GridCell.Tab.1.bottom" timestamp="1583876032242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1535" height="269" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583876032242" />
+    <state width="1535" height="269" key="GridCell.Tab.1.center" timestamp="1583876032227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1535" height="269" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583876032227" />
+    <state width="1535" height="269" key="GridCell.Tab.1.left" timestamp="1583876032227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1535" height="269" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583876032227" />
+    <state width="1535" height="269" key="GridCell.Tab.1.right" timestamp="1583876032227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1535" height="269" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583876032227" />
+    <state x="298" y="66" key="Maven.ArtifactSearchDialog" timestamp="1583847171726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="298" y="66" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1583847171726" />
+    <state x="248" y="5" key="SettingsEditor" timestamp="1584081654070">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="248" y="5" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1584081654070" />
+    <state x="395" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1584273919730">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="395" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583943917523" />
+    <state x="395" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584273919730" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1583959229629">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1583959229629" />
+  </component>
+</project>
